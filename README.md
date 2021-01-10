@@ -14,8 +14,8 @@ I am an everlasting student who loves coding👨‍💻, loves learning👨‍�
 
 <br>
 
-![](https://github.com/filipezz/filipez/blob/master/generated/overview.svg)
-![](https://github.com/filipezz/filipez/blob/master/generated/languages.svg)
+![](https://github.com/filipezz/generated-stats/blob/master/generated/overview.svg)
+![](https://github.com/filipezz/generated-stats/blob/master/generated/languages.svg)
 
 
 <br>
